@@ -4,9 +4,6 @@
   "main": "index.js",
   "typings": "typings/index.d.ts",
   "author": "Jamon Holmgren <duc@gmtsoftware.red>",
-  "contributors": [
-    "Thibault Malbranche <malbranche.thibault@gmail.com>"
-  ],
   "license": "MIT",
   "version": "5.0.0",
   "homepage": "https://github.com/react-native-community/react-native-webview#readme",
